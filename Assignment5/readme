@@ -1,0 +1,4 @@
+
+ps -p 1940 -o comm=
+init
+

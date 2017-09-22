@@ -1,0 +1,21 @@
+.
+Assigment1
+Assignment4
+31_opendir_readdir_directory.c~
+..
+Assignment7
+Assignment5
+Q1
+Q2
+File Subsystem Programs
+executable3.c
+Marvellous Process Subsystem Demo Programs
+Assignment3
+Q1.c
+Assignment2
+Q1~
+Assignment6
+Assigmnt1.c
+a.out
+Q1.c~
+31_opendir_readdir_directory.c
